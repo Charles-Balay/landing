@@ -1,0 +1,13 @@
+.btn-blue {
+	background-color: rgb(16, 7, 208);
+	padding: 15px 20px; 
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Nunito Sans', sans-serif;
+	align-items: center; 
+	
+}
+
+a:hover {
+	background-color: black;  
